@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1486259729 source:c:\users\pegme\onedrive\documents\fastbalancedtree\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<vector>
+	<fstream>
+	"TimeFunctions.h"
+	<algorithm>
+	<math.h>
+
+1477971351 c:\users\pegme\onedrive\documents\fastbalancedtree\timefunctions.h
+	<fstream>
+	<iomanip>
+	<time.h>
+
